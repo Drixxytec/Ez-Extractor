@@ -1,7 +1,8 @@
 # Ez-Extractor
-Easily extract any .zip file.
-(WINDOWS ONLY)
-
-Made on python.
-This file does not contain any malware at all as this is only made as a tool
-to use in extracting .zip's faster than ever!
++------------------------+
+|Easily extract any .zip file.
+|(WINDOWS ONLY)
+| Made on python.
+| This file does not contain any malware at all as this is only made as a tool
+| to use in extracting .zip's faster than ever!
+ +------------------------+
