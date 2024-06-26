@@ -11,4 +11,4 @@ Easily and Rapidly extract any .zip or .rar file in less than 10 minutes dependi
 | VERSION   | DOWNLOAD LINKS   |     NOTE       |
 |----------------------|-------------------|------------------|
 | 6/26/24              |        [DOWNLOAD](https://github.com/Drixxytec/Ez-Extractor/releases/download/Release/EZEXTRACTOR.RARS.exe)| RAR FILES ONLY VERSION|
-| 202X              |        N/A| Maybe an Release. |
+| nil              |        nil| Maybe an Release in the future. |
