@@ -1,6 +1,5 @@
 # Ez-Extractor
-Easily and Rapidly extract any .zip
-file in less than 1 hour depending on the file size.
+Easily and Rapidly extract any .zip or .rar file in less than 10 minutes depending on the file size.
 
 ## ZIP EXTRACTOR
 | Version               |  Download Links        |  Note       |           
