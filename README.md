@@ -10,3 +10,4 @@ file in less than 1 hour depending on the file size.
 | VERSION - RAR ONLY   | DOWNLOAD LINKS   |     NOTE       |
 |----------------------|-------------------|------------------|
 | 6/26/24              |        Non Public| THIS IS A DIFFERENT VERSION OF EZ-EXTRACTOR, THIS VERSION IS MEANT FOR RAR FILES ONLY!|
+| ?/??/24             |        N/A| WORK IN PROGRESS. Mega Fast Extraction. |
